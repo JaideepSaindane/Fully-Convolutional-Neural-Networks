@@ -6,3 +6,4 @@ This contains applications of Fully Convolutional Neural Networks on different d
 
 ## Training Accuracy Graph
 ![fcn_cifar10_80epoch_accuracy](https://user-images.githubusercontent.com/30887610/45047834-cf57fb00-b097-11e8-9fd0-8ee4ced47280.png)
+Reference: https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py
